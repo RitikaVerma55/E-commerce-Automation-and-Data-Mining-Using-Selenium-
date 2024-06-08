@@ -1,2 +1,2 @@
 # E-commerce-Automation-and-Data-Mining-Using-Selenium-
-Created a python script using selenium to automate login, sign-in of eBay, ensured efficient interaction and featured potential error handling. Utilized Selenium WebDriver for data mining, captured essential product information and exported the data into CSV.
+This Python script automates eBay login, sign-in, and data scraping using Selenium and Microsoft Edge WebDriver.It prioritizes efficient interaction with the website and incorporates error handling for login scenarios. The script uses Selenium WebDriver for data mining, capturing essential product information (title, price, ID, specifications) based on user-provided search terms. It exports the extracted data into a CSV file.
